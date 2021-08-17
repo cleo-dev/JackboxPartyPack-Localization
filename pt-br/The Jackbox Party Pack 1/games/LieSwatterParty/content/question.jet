@@ -3,24 +3,24 @@
    "questions": [
       {
          "id": 10877,
-         "text": "eBay",
-         "category": "eBay",
+         "text": "OLX",
+         "category": "OLX",
          "subject": "Produtos",
          "statements": [
             {
                "response": "Um homem.",
-               "text": "eBay proíbe a venda de orações.",
+               "text": "OLX proíbe a venda de orações.",
                "audio": "10877_0",
                "truth": true
             },
             {
                "response": "Desculpe.",
-               "text": "O eBay permite a venda de uniformes de prisão falsos, mas não de verdade.",
+               "text": "A OLX permite a venda de uniformes de prisão falsos, mas não de verdade.",
                "audio": "10877_1",
                "truth": true
             },
             {
-               "text": "O eBay tem uma cláusula que anula todas as vendas feitas por \"amantes desprezados\".",
+               "text": "A OLX tem uma cláusula que anula todas as vendas feitas por \"amantes desprezados\".",
                "audio": "10877_2",
                "truth": false
             },
@@ -30,17 +30,17 @@
                "truth": false
             },
             {
-               "text": "O primeiro item vendido no eBay foi um saco de grãos de 4,5 kg.",
+               "text": "O primeiro item vendido na OLX foi um saco de grãos de 4,5 kg.",
                "audio": "10877_4",
                "truth": false
             },
             {
-               "text": "Um selo lambido por Johnny Depp foi vendido no eBay por US $ 15.000.",
+               "text": "Um selo lambido por olsonaro foi vendido na OLX por R$900,00.",
                "audio": "10877_5",
                "truth": false
             },
             {
-               "text": "O eBay já foi colocado em leilão no eBay, mas os lances não atingiram o mínimo.",
+               "text": "A OLX já foi colocado a venda na OLX, mas não houve a venda.",
                "audio": "10877_6",
                "truth": false
             }
@@ -59,33 +59,33 @@
                "truth": true
             },
             {
-               "response": "Barf faz parte da linha Jelly Belly “Beanboozled”.",
-               "text": "Doces com sabor de pizza Jelly Belly foram lançados posteriormente como sabor Barf.",
+               "response": "As pessoas usam #worldnutelladay nas redes sociais”.",
+               "text": "Dia 5 de Fevereiro é considerado o dia Mundial da Nutela.",
                "audio": "10871_1",
                "truth": true
             },
             {
-               "text": "O avô de Clint Eastwood inventou a barra Snickers.",
+               "text": "O avô de Sylvester Stallone inventou a barra Snickers.",
                "audio": "10871_2",
                "truth": false
             },
             {
-               "text": "Smarties foram originalmente inventados para conter a masturbação.",
+               "text": "Halls foram originalmente inventados para conter a masturbação.",
                "audio": "10871_3",
                "truth": false
             },
             {
-               "text": "Os doces favoritos de Hitler eram os M&M.",
+               "text": "O doce favorito de Hitler era M&M.",
                "audio": "10871_4",
                "truth": false
             },
             {
-               "text": "Algumas tartarugas têm gosto de alcaçuz preto.",
+               "text": "Algumas tartarugas têm gosto de chocolate amargo.",
                "audio": "10871_5",
                "truth": false
             },
             {
-               "text": "Twizzlers realmente não existem.",
+               "text": "Barras de Alpino não existem.",
                "audio": "10871_6",
                "truth": false
             }
@@ -99,7 +99,7 @@
          "statements": [
             {
                "response": "A bebida foi transformada em etanol.",
-               "text": "O Four Loko recordado foi transformado em combustível para automóveis.",
+               "text": "O Energético Four Loko já foi transformado em combustível para automóveis.",
                "audio": "10870_0",
                "truth": true
             },
@@ -110,12 +110,12 @@
                "truth": true
             },
             {
-               "text": "O nome da Red Bull na Coreia é traduzido vagamente como “Bull Penis”.",
+               "text": "O nome da Red Bull na Coreia é traduzido literalmete como “Penis Rubro”.",
                "audio": "10870_2",
                "truth": false
             },
             {
-               "text": "Foi demonstrado que a bebida energética monstro elimina o eczema.",
+               "text": "Segundo pesquisadores a bebida energética Monster é capaz de eliminar doenças de pele.",
                "audio": "10870_3",
                "truth": false
             },
@@ -125,12 +125,12 @@
                "truth": false
             },
             {
-               "text": "A 5-Hour Energy teve que mudar legalmente seu nome de 7-Hour Energy.",
+               "text": "A Gatorade teve que mudar legalmente seu nome para Gatoraje.",
                "audio": "10870_5",
                "truth": false
             },
             {
-               "text": "Rockstar foi inventado por membros das bandas Foreigner e Journey.",
+               "text": "A bebida Red Bull foi inventada por membros das bandas Foreigner e Journey.",
                "audio": "10870_6",
                "truth": false
             }
@@ -143,7 +143,7 @@
          "subject": "Locais",
          "statements": [
             {
-               "response": "Um piloto da Ferrari em alta velocidade recebeu uma multa de $ 290.000.",
+               "response": "Um piloto da Ferrari em alta velocidade recebeu uma multa de 290 mil dólares.",
                "text": "A multa por multa por excesso de velocidade na Finlândia varia de acordo com sua renda.",
                "audio": "10829_0",
                "truth": true
@@ -155,13 +155,13 @@
                "truth": true
             },
             {
-               "response": "Eles também não têm testes ou deveres de casa até serem adolescentes.",
+               "response": "Eles também não têm povas ou deveres de casa até serem adolescentes.",
                "text": "As crianças finlandesas não começam a escola antes dos 7 anos.",
                "audio": "10829_2",
                "truth": true
             },
             {
-               "text": "O ABBA aparece em algum papel-moeda finlandês.",
+               "text": "A banda Queen já apareceu em um lote de papel-moeda finlandês.",
                "audio": "10829_3",
                "truth": false
             },
@@ -176,7 +176,7 @@
                "truth": false
             },
             {
-               "text": "É obrigatório terminar um filme finlandês com \"Finn\".",
+               "text": "É obrigatório terminar um filme produzido na Finlândia com \"Finn\".",
                "audio": "10829_6",
                "truth": false
             }
@@ -190,39 +190,39 @@
          "statements": [
             {
                "response": "Ele derrotou Joaquin Phoenix.",
-               "text": "Prince foi eleito o “vegetariano mais sexy do mundo” pela PETA.",
+               "text": "Prince foi eleito o “vegetariano mais sexy do mundo” pela O.N.G. PETA.",
                "audio": "10816_0",
                "truth": true
             },
             {
                "response": "E ele realmente vai de porta em porta.",
-               "text": "Prince é uma Testemunha de Jeová.",
+               "text": "Prince se tornou Testemunha de Jeová.",
                "audio": "10816_1",
                "truth": true
             },
             {
-               "response": "Boozer levou Prince ao tribunal por desfigurar a propriedade.",
+               "response": "Boozer levou Prince ao tribunal por danos a propriedade privada.",
                "text": "O proprietário de Prince em 2006 era o astro da NBA Carlos Boozer. ",
                "audio": "10816_2",
                "truth": true
             },
             {
-               "text": "Prince é altamente alérgico a máquinas de nevoeiro. ",
+               "text": "Prince é altamente alérgico a máquinas de fumaça. ",
                "audio": "10816_3",
                "truth": false
             },
             {
-               "text": "Prince pode tocar todos os instrumentos, exceto o apito deslizante. ",
+               "text": "Prince sabe tocar todos os instrumentos, exceto gaita. ",
                "audio": "10816_4",
                "truth": false
             },
             {
-               "text": "Prince inicialmente estudou para ser um obstetra / ginecologista na faculdade. ",
+               "text": "Prince inicialmente estudou medicina na faculdade. ",
                "audio": "10816_5",
                "truth": false
             },
             {
-               "text": "Prince fabrica sua própria marca de spray de cabelo, chamada “Shape This”.",
+               "text": "Prince produziu sua própria marca de spray de cabelo, chamada “Shape This”.",
                "audio": "10816_6",
                "truth": false
             }
@@ -241,7 +241,7 @@
                "truth": true
             },
             {
-               "response": "Eles pensaram que o terno “Tanooki” de Mario era um assassinato.",
+               "response": "Eles pensaram que o terno de "raposa” do Mario era obtido por assassinato.",
                "text": "Super Mario se tornou um alvo da PETA por usar um terno de pele em um videogame. ",
                "audio": "10815_1",
                "truth": true
@@ -262,7 +262,7 @@
                "truth": false
             },
             {
-               "text": "O embaixador da boa vontade da PETA é um chimpanzé de circo resgatado chamado SGT. Banana Bottoms.",
+               "text": "Um dos embaixadores da PETA é um chimpanzé de circo resgatado e apelidado de Sr Aspirador de Banana .",
                "audio": "10815_5",
                "truth": false
             },
@@ -275,29 +275,29 @@
       },
       {
          "id": 10813,
-         "text": "Motores de busca",
-         "category": "Motores de busca",
+         "text": "Plataformas de busca",
+         "category": "Plataformas de busca",
          "subject": "Tecnologia",
          "statements": [
             {
-               "response": "Originalmente, era o “Guia de Jerry e David para a World Wide Web”.",
-               "text": "Yahoo! significa “Yet Another Hierarchical Officious Oracle”.",
+               "response": "Originalmente, seria o “Guia de Jerry e David para a Internet”.",
+               "text": "Yahoo! tem suas siglas traduzidas para “Mais um Oráculo Hierárquico Oficioso”.",
                "audio": "10813_0",
                "truth": true
             },
             {
-               "response": "Você também pode definir o Google como \"Pirata\" e \"Elmer Fudd\".",
-               "text": "O Google tem uma configuração de idioma Klingon.",
+               "response": "Você também pode configurar o Google com \"Pirate\" e \"Elmer Fudd\".",
+               "text": "O Google tem uma configuração de idioma para Klingon, da série de filmes Star Trek.",
                "audio": "10813_1",
                "truth": true
             },
             {
-               "text": "Ask Jeeves foi criado por um verdadeiro mordomo.",
+               "text": "Ask.com foi criado por um mordomo.",
                "audio": "10813_2",
                "truth": false
             },
             {
-               "text": "Bing foi nomeado após Chandler Bing de <i>amigos</i>. ",
+               "text": "Bing foi nomeado inspirado em Chandler Bing da série <i>Friends</i>. ",
                "audio": "10813_3",
                "truth": false
             },
@@ -312,7 +312,7 @@
                "truth": false
             },
             {
-               "text": "O primeiro mecanismo de pesquisa da Internet foi chamado de “Homem-Aranha”.",
+               "text": "O primeiro mecanismo de pesquisa da Internet foi chamado de “Spider-Man”.",
                "audio": "10813_6",
                "truth": false
             }
@@ -325,20 +325,20 @@
          "subject": "Pessoas",
          "statements": [
             {
-               "response": "Ele sofria de um padrão masculino de Bond-ness.",
+               "response": "Um bom agente sempre tem varios disfarces.",
                "text": "Sean Connery usava peruca em cada um de seus filmes de Bond.",
                "audio": "10808_0",
                "truth": true
             },
             {
-               "response": "Ele também escreveu o roteiro de <i>Chitty Chitty Bang Bang</i>.",
-               "text": "O roteiro de “You Only Live Twice” foi escrito por Roald Dahl.",
+               "response": "Ele também escreveu o roteiro de <i>A Fantástica Fábrica de Chocolate</i>.",
+               "text": "O roteiro de “Com 007 só se Vive Duas Vezes” foi escrito por Roald Dahl.",
                "audio": "10808_1",
                "truth": true
             },
             {
-               "response": "A atriz transexual Caroline Cossey apareceu brevemente em <i>For Your Eyes Only</i>.",
-               "text": "Uma mulher em um dos filmes de Bond nasceu homem.",
+               "response": "A atriz transexual Caroline Cossey apareceu brevemente em <i>007 - Somente para Seus Olhos</i>.",
+               "text": "Uma mulher que fez cirurgia de troca de sexo atua em um dos filmes de Bond.",
                "audio": "10808_2",
                "truth": true
             },
@@ -353,7 +353,7 @@
                "truth": false
             },
             {
-               "text": "Jim Carrey foi oferecido o papel de James Bond, mas recusou.",
+               "text": "Jim Carrey recusou o papel de James Bond.",
                "audio": "10808_6",
                "truth": false
             }
@@ -366,14 +366,14 @@
          "subject": "Matemática",
          "statements": [
             {
-               "response": "$ 2 de cada vez!",
-               "text": "Um legislador de Rhode Island propôs um imposto de US $ 2 sobre as relações sexuais nos anos 70.",
+               "response": "De dólar em dólar o estado fica rico!",
+               "text": "Um Legislador de Rhode Island, nos EUA, propôs um imposto de 2 dólares para cada relação sexual nos anos 70.",
                "audio": "11206_0",
                "truth": true
             },
             {
                "response": "Pessoas flagradas com drogas que não pagaram o imposto foram multadas em dobro.",
-               "text": "O Tennessee cobrou um imposto sobre as drogas ilegais até 2009. ",
+               "text": "O estado de Tennessee, nos EUA, cobrou um imposto sobre as drogas ilegais até 2009. ",
                "audio": "11206_1",
                "truth": true
             },
@@ -384,17 +384,17 @@
                "truth": true
             },
             {
-               "text": "Não há imposto para escalar o Monte. Everest, mas há que descer. ",
+               "text": "Não há imposto para subir o Monte Everest, mas há para descer. ",
                "audio": "11206_3",
                "truth": false
             },
             {
-               "text": "O IRS envia um 1040 para o “Papai Noel” a cada ano. ",
+               "text": "O Governo Federal criou a Bolsa Natal, exclusivo para quem se fantasia de Noel em dezembro. ",
                "audio": "11206_4",
                "truth": false
             },
             {
-               "text": "As receitas de assaltos a bancos são tributadas em 98% na Espanha. ",
+               "text": "As multas de assalto a banco são 98% do valor total roubado na Espanha. ",
                "audio": "11206_5",
                "truth": false
             },
@@ -413,33 +413,33 @@
          "statements": [
             {
                "response": "Steve Hillenburg",
-               "text": "SpongeBob SquarePants foi criado por um biólogo marinho. ",
+               "text": "Bob Esponja Calça Quadrada foi criado por um biólogo marinho. ",
                "audio": "11552_0",
                "truth": true
             },
             {
-               "response": "Isso é tudo o que queremos dizer sobre isso.",
+               "response": "Isso é tudo o que temos a dizer sobre o assunto.",
                "text": "Há um filme pornô do Bob Esponja intitulado <i>SpongeKnob SquareNuts</i>.",
                "audio": "11552_1",
                "truth": true
             },
             {
-               "text": "Há um despertador Bob Esponja que borrifa água quente.",
+               "text": "Há um despertador do Bob Esponja que borrifa água quente.",
                "audio": "11552_2",
                "truth": false
             },
             {
-               "text": "Daniel Day-Lewis ganhou um Emmy por interpretar “The Fart Pirate” em um episódio de <i>Bob Esponja</i>.",
+               "text": "Daniel Day-Lewis ganhou um Emmy por interpretar “O pirata inchado” em um episódio de <i>Bob Esponja</i>.",
                "audio": "11552_3",
                "truth": false
             },
             {
-               "text": "A <i>SpongeBob</i> ganhou três Grammys.",
+               "text": "O <i>Bob Esponja</i> ganhou três Grammys.",
                "audio": "11552_4",
                "truth": false
             },
             {
-               "text": "Bob Esponja recebeu 10.000 votos na eleição presidencial de 2012 em Eygptian.",
+               "text": "Bob Esponja recebeu 10.000 votos na eleição presidencial de 2012 no país de Barbados.",
                "audio": "11552_5",
                "truth": false
             },
@@ -452,45 +452,45 @@
       },
       {
          "id": 11726,
-         "text": "Aveia quacre",
-         "category": "Aveia quacre",
+         "text": "Aveia Quaker",
+         "category": "Aveia Quaker",
          "subject": "Comida",
          "statements": [
             {
                "response": "Enquanto fazia parceria com o MIT.",
-               "text": "Como um experimento, Quaker Oats alimentou aveia radioativa para crianças nos anos 40.",
+               "text": "Como um experimento, a Aveia Quaker alimentou, com aveia radioativa, crianças nos anos 40.",
                "audio": "11726_0",
                "truth": true
             },
             {
-               "response": "A escritura era de um centímetro quadrado de terreno.",
-               "text": "A Quaker Oats deu lotes de terras Yukon como um prêmio nos anos 50.",
+               "response": "A escritura era de um centímetro quadrado de terreno em Yukon.",
+               "text": "A Aveia Quaker deu lotes de terras no Canadá como um prêmio nos anos 50.",
                "audio": "11726_1",
                "truth": true
             },
             {
                "response": "Ele também cortou o cabelo.",
-               "text": "O mascote do Quaker Oats foi feito para parecer 5 libras mais fino em 2012.",
+               "text": "O mascote da Aveia Quaker foi feito para parecer cerda de 2 Kg mais magro em 2012.",
                "audio": "11726_2",
                "truth": true
             },
             {
-               "text": "A Quaker Oats foi fundada por uma família das Testemunhas de Jeová na década de 1870.",
+               "text": "A Aveia Quaker foi fundada por uma família das Testemunhas de Jeová na década de 1870.",
                "audio": "11726_3",
                "truth": false
             },
             {
-               "text": "Ronald Reagan interpretou um carona em um comercial da Quaker Oats em 1961.",
+               "text": "Ronald Reagan interpretou um carona em um comercial da Aveia Quaker em 1961.",
                "audio": "11726_4",
                "truth": false
             },
             {
-               "text": "Quaker Oats foi o primeiro alimento comido na lua em 1969.",
+               "text": "A Aveia Quaker foi o primeiro alimento comido na lua em 1969.",
                "audio": "11726_5",
                "truth": false
             },
             {
-               "text": "Para ganhar um suprimento vitalício de Quaker Oats, as pessoas viviam como Quakers em 1996.",
+               "text": "Para ganhar um suprimento vitalício de Aveia Quaker, as pessoas viviam praticavam quakerismo em 1996.",
                "audio": "11726_6",
                "truth": false
             }
@@ -504,18 +504,18 @@
          "statements": [
             {
                "response": "Ou algo que parecia idêntico.",
-               "text": "Antes da segunda guerra mundial, as crianças americanas gesticulavam como a saudação nazista durante o juramento de fidelidade.",
+               "text": "Antes da segunda guerra mundial, as crianças americanas juravam com a saudação nazista o juramento de fidelidade.",
                "audio": "11717_0",
                "truth": true
             },
             {
                "response": "Era algo que Leonard Nemoy lembrava de sua infância.",
-               "text": "A saudação manual Vulcan de <i>Star Trek</i> também é uma bênção judaica. ",
+               "text": "A saudação manual Vulcanos de <i>Star Trek</i> também é uma bênção judaica. ",
                "audio": "11717_1",
                "truth": true
             },
             {
-               "text": "JRR Tolkien escreveu um livro com mais de 800 saudações para usar na Terra-média.",
+               "text": "O autor dos livros do Senhor dos Aneis escreveu um livro com mais de 800 saudações para usar na Terra-média.",
                "audio": "11717_2",
                "truth": false
             },
@@ -530,7 +530,7 @@
                "truth": false
             },
             {
-               "text": "Em Guam, mostrar a alguém seu dedo médio é um sinal de submissão.",
+               "text": "Em Guam, mostrar a alguém seu dedo do meio é um sinal de submissão.",
                "audio": "11717_5",
                "truth": false
             },
@@ -554,7 +554,7 @@
                "truth": true
             },
             {
-               "response": "Ali era uma grande fã.",
+               "response": "Ali era um grande fã.",
                "text": "Muhammad Ali dedicou uma de suas lutas a Christopher Lee.",
                "audio": "11644_1",
                "truth": true
@@ -571,7 +571,7 @@
                "truth": false
             },
             {
-               "text": "Christopher Lee é dono da velha mobília da varanda de JRR Tolkien.",
+               "text": "Christopher Lee é dono da velha mobília da varanda de J. R. R. Tolkien.",
                "audio": "11644_4",
                "truth": false
             },
@@ -581,7 +581,7 @@
                "truth": false
             },
             {
-               "text": "Christopher Lee foi saltar de pára-quedas com Cary Grant.",
+               "text": "Christopher Lee foi saltar de paraquedas com Cary Grant.",
                "audio": "11644_6",
                "truth": false
             }
