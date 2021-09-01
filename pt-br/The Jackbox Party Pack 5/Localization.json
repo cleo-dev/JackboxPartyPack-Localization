@@ -1,80 +1,81 @@
-{
-    "table": {
+ "table": {
         "en": {
             "LANGUAGE_NAME": "Português",
             "LANGUAGE": "Língua",
-            "INTERNET_CONNECTED": "Acabamos de encontrar a internet.",
-            "INTERNET_DISCONNECTED": "Desculpe, não conseguimos conectar aos servidores Jackbox Games.<br />Verifique se a sua conexão com a Internet está funcionando corretamente.",
-            "ROOM_DESTROYED": "Lamentamos, ocorreu um erro de rede e o seu quarto foi destruído.<br />Verifique se a sua conexão com a Internet está funcionando corretamente.",
-            "SOCKET_DISCONNECTED ": "Desculpe, perdemos sua conexão com os servidores Jackbox Games.",
-            "TIMEOUT": "Desculpe, não conseguimos conectar aos servidores Jackbox Games.<br />Verifique se a sua conexão com a Internet está funcionando corretamente.",
-            "USER_DISCONNECT": "Desculpe, o servidor desconectou você. Por favor, tente novamente.",
+            "INTERNET_CONNECTED": "Acabamos de conectar a internet.",
+            "INTERNET_DISCONNECTED": "Desculpe, não conseguimos conectar aos servidores Jackbox Games.<br>Verifique se a sua conexão com a Internet está funcionando corretamente.",
+            "ROOM_DESTROYED": "Desculpe, sua sala foi destruída.<br>Compraremos uma nova assim que possível.",
+            "SOCKET_DISCONNECTED": "Desculpe, perdemos sua conexão com os servidores Jackbox Games, vamos tentar novamente.",
+            "TIMEOUT": "Desculpe, não conseguimos conectar aos servidores Jackbox Games.<br>Verifique se a sua conexão com a Internet está funcionando corretamente.",
             "LOST_LICENSE": "Lamentamos, perdemos a licença deste conteúdo!",
-            "STEAM_ERROR": "Não foi possível validar sua licença do Steam.",
-            "TWITCH_PRIME_ERROR": "Lamentamos, mas não foi possível validar sua licença do Twitch.",
-            "LOST_DLC": "Desculpe, não foi possível encontrar a licença do seu DLC. Voltando ao menu ...",
+            "STEAM_ERROR": "Não foi possível validar sua licença da Steam.",
             "START": "Começar",
-            "SWITCH_USER": "Mudar de utilizador",
-            "LEGAL": "Criado e desenvolvido por Jackbox Games, Inc. Jogo e software © 2018 Jackbox Games, Inc. Todos os direitos reservados. Jackbox Games, VOCÊ NÃO SABE JACK, JACK ATTACK, o logotipo da cabeça Jack e o logotipo da Jackbox Games são marcas registradas da Jackbox Games, Inc. Full Stream, Split the Room, Mad Verse City, Patently Stupid, Zeeple Dome e Party Pack são marcas comerciais da Jackbox Games, Inc. Todas as outras marcas comerciais e logotipos são propriedade de seus respectivos proprietários.",
+            "SWITCH_USER": "Mudar de usuário",
+            "LEGAL": "Criado e desenvolvido por Jackbox Games, Inc. Jogo e software © 2016-2017 Jackbox Games, Inc. Todos os direitos reservados. Jackbox Games e o logo Jackbox Games são marcas registradas de Jackbox Games, Inc. Quiplash, Trivia Murder Party, Guesspionage, Fakin 'It, Tee KO e Party Pack são marcas registradas da Jackbox Games, Inc. Todas as outras marcas e logotipos são propriedade de seus respectivos proprietários.",
             "LEGAL_CRIWARE": "Desenvolvido por \"CRIWARE\". CRIWARE é uma marca comercial da CRI Middleware Co., Ltd.",
             "LEGAL_FMOD": "Este produto usa FMOD Sound System da Firelight Technologies",
-            "LEGAL_SCALEFORM": "Este produto de software inclui o software Autodesk® Scaleform®, © 2012 Autodesk, Inc. Todos os direitos reservados.<br />Autodesk, Beast, HumanIK e Scaleform são marcas registradas ou marcas comerciais da Autodesk, Inc. e / ou suas subsidiárias e / ou afiliadas nos EUA e / ou outros países."
+            "LEGAL_SCALEFORM": "Este produto de software inclui o software Autodesk® Scaleform®, © 2012 Autodesk, Inc. Todos os direitos reservados. Autodesk, Beast, HumanIK e Scaleform são marcas registradas ou marcas comerciais da Autodesk, Inc. e / ou suas subsidiárias e / ou afiliadas nos EUA e / ou outros países.",
+            "LEGAL_PRO": "Criado e desenvolvido por Jackbox Games, Inc. Jogo e software © 2016-2017 Jackbox Games, Inc. Todos os direitos reservados. Jackbox Games e o logotipo Jackbox Games são marcas registradas da Jackbox Games, Inc. Quiplash, Trivia Murder Party, Guesspionage, Fakin 'It, Tee KO e Party Pack são marcas registradas da Jackbox Games, Inc. Todas as outras marcas e logotipos são propriedade de seus respectivos proprietários. Esta versão profissional do jogo Jackbox Party Pack 3 é para uso exclusivo do detentor da licença designado e não pode ser copiada, transferida ou usada em qualquer outro feudo sem licença. Qualquer uso não autorizado deste software pode anular a licença."
         },
         "fr": {
             "LANGUAGE_NAME": "Français",
             "LANGUAGE": "Langue",
             "INTERNET_CONNECTED": "Acabamos de encontrar a internet.",
-            "INTERNET_DISCONNECTED": "Desculpe, não conseguimos conectar aos servidores Jackbox Games.<br />Verifique se a sua conexão com a Internet está funcionando corretamente.",
-            "ROOM_DESTROYED": "Desculpe, seu quarto foi destruído.<br />Compraremos um novo assim que possível.",
+            "INTERNET_DISCONNECTED": "Desculpe, não conseguimos conectar aos servidores Jackbox Games.<br>Verifique se a sua conexão com a Internet está funcionando corretamente.",
+            "ROOM_DESTROYED": "Desculpe, seu quarto foi destruído.<br>Compraremos um novo assim que possível.",
             "SOCKET_DISCONNECTED": "Desculpe, perdemos sua conexão com os servidores Jackbox Games, vamos tentar novamente.",
-            "TIMEOUT": "Desculpe, não conseguimos conectar aos servidores Jackbox Games.<br />Verifique se a sua conexão com a Internet está funcionando corretamente.",
+            "TIMEOUT": "Desculpe, não conseguimos conectar aos servidores Jackbox Games.<br>Verifique se a sua conexão com a Internet está funcionando corretamente.",
             "LOST_LICENSE": "Lamentamos, perdemos a licença deste conteúdo!",
             "STEAM_ERROR": "Não foi possível validar sua licença do Steam.",
             "START": "Démarrer",
             "SWITCH_USER": "Changer d'utilisateur",
-            "LEGAL": "Desenvolvido por Jackbox Games, Inc. Jeu et logiciel © 2015 Jackbox Games, Inc. Tous droits réservés. Marques Jackbox Games e o logotipo Jackbox Games são os marques de Jackbox Games, Inc. Quiplash e o logotipo Quiplash \\rsão os marques de Jackbox Games, Inc. Todos os autores, marques e logotipos são os proprietários de seus proprietários respectivos."
+            "LEGAL": "Desenvolvido por Jackbox Games, Inc. Jeu et logiciel © 2016-2017 Jackbox Games, Inc. Todos os relatórios disponíveis. Marques\\rJackbox Games e logo Jackbox Games são os marques da Jackbox Games, Inc. Quiplash e os logo Quiplash \\rsão os marques da Jackbox Games, Inc. Todos os autores marques e logotipos são a propriedade dos seus proprietários respectivos.",
+            "LEGAL_PRO": "Criado e desenvolvido por Jackbox Games, Inc. Jogo e software © 2016-2017 Jackbox Games, Inc. Todos os direitos reservados. Jackbox Games e o logotipo Jackbox Games são marcas registradas da Jackbox Games, Inc. Quiplash, Trivia Murder Party, Guesspionage, Fakin 'It, Tee KO e Party Pack são marcas registradas da Jackbox Games, Inc. Todas as outras marcas e logotipos são propriedade de seus respectivos proprietários. Esta versão profissional do jogo Jackbox Party Pack 3 é para uso exclusivo do detentor da licença designado e não pode ser copiada, transferida ou usada em qualquer outro feudo sem licença. Qualquer uso não autorizado deste software pode anular a licença."
         },
         "it": {
             "LANGUAGE_NAME": "Italiano",
             "LANGUAGE": "Lingua",
             "INTERNET_CONNECTED": "Acabamos de encontrar a internet.",
-            "INTERNET_DISCONNECTED": "Desculpe, não conseguimos conectar aos servidores Jackbox Games.<br />Verifique se a sua conexão com a Internet está funcionando corretamente.",
-            "ROOM_DESTROYED": "Desculpe, seu quarto foi destruído.<br />Compraremos um novo assim que possível.",
+            "INTERNET_DISCONNECTED": "Desculpe, não conseguimos conectar aos servidores Jackbox Games.<br>Verifique se a sua conexão com a Internet está funcionando corretamente.",
+            "ROOM_DESTROYED": "Desculpe, seu quarto foi destruído.<br>Compraremos um novo assim que possível.",
             "SOCKET_DISCONNECTED": "Desculpe, perdemos sua conexão com os servidores Jackbox Games, vamos tentar novamente.",
-            "TIMEOUT": "Desculpe, não conseguimos conectar aos servidores Jackbox Games.<br />Verifique se a sua conexão com a Internet está funcionando corretamente.",
+            "TIMEOUT": "Desculpe, não conseguimos conectar aos servidores Jackbox Games.<br>Verifique se a sua conexão com a Internet está funcionando corretamente.",
             "LOST_LICENSE": "Lamentamos, perdemos a licença deste conteúdo!",
             "STEAM_ERROR": "Não foi possível validar sua licença do Steam.",
             "START": "Cominciare",
             "SWITCH_USER": "Cambia utente",
-            "LEGAL": "Sviluppato da Jackbox Games, Inc. gioco and un software © 2015 Jackbox Games, Inc. Todos os direitos reservados. Marchi\\rJackbox Games e seu logotipo Jackbox Games foram registrados por Jackbox Games, Inc. Quiplash e seu logotipo Quiplash\\rpor Jackbox Games, Inc. Todos os outros jogadores e todos os que são proprietários são proprietários."
+            "LEGAL": "Sviluppato da Jackbox Games, Inc. gioco and un software © 2016-2017 Jackbox Games, Inc. Todos os direitos reservados. Marchi\\rJackbox Games e seu logotipo Jackbox Games foram registrados por Jackbox Games, Inc. Quiplash e seu logotipo Quiplash\\rpor Jackbox Games, Inc. Todos os outros jogadores e todos os que são proprietários são proprietários.",
+            "LEGAL_PRO": "Criado e desenvolvido por Jackbox Games, Inc. Jogo e software © 2016-2017 Jackbox Games, Inc. Todos os direitos reservados. Jackbox Games e o logotipo Jackbox Games são marcas registradas da Jackbox Games, Inc. Quiplash, Trivia Murder Party, Guesspionage, Fakin 'It, Tee KO e Party Pack são marcas registradas da Jackbox Games, Inc. Todas as outras marcas e logotipos são propriedade de seus respectivos proprietários. Esta versão profissional do jogo Jackbox Party Pack 3 é para uso exclusivo do detentor da licença designado e não pode ser copiada, transferida ou usada em qualquer outro feudo sem licença. Qualquer uso não autorizado deste software pode anular a licença."
         },
         "de": {
             "LANGUAGE_NAME": "Deutsche",
             "LANGUAGE": "Sprache",
             "INTERNET_CONNECTED": "Acabamos de encontrar a internet.",
-            "INTERNET_DISCONNECTED": "Desculpe, não conseguimos conectar aos servidores Jackbox Games.<br />Verifique se a sua conexão com a Internet está funcionando corretamente.",
-            "ROOM_DESTROYED": "Desculpe, seu quarto foi destruído.<br />Compraremos um novo assim que possível.",
+            "INTERNET_DISCONNECTED": "Desculpe, não conseguimos conectar aos servidores Jackbox Games.<br>Verifique se a sua conexão com a Internet está funcionando corretamente.",
+            "ROOM_DESTROYED": "Desculpe, seu quarto foi destruído.<br>Compraremos um novo assim que possível.",
             "SOCKET_DISCONNECTED": "Desculpe, perdemos sua conexão com os servidores Jackbox Games, vamos tentar novamente.",
-            "TIMEOUT": "Desculpe, não conseguimos conectar aos servidores Jackbox Games.<br />Verifique se a sua conexão com a Internet está funcionando corretamente.",
+            "TIMEOUT": "Desculpe, não conseguimos conectar aos servidores Jackbox Games.<br>Verifique se a sua conexão com a Internet está funcionando corretamente.",
             "LOST_LICENSE": "Lamentamos, perdemos a licença deste conteúdo!",
             "STEAM_ERROR": "Não foi possível validar sua licença do Steam.",
             "START": "Anfang",
             "SWITCH_USER": "Benutzer wechseln",
-            "LEGAL": "Entwickelt von Jackbox Games, Inc. Jogo e software © 2015 Jackbox Games, Inc. Alle Rechte vorbehalten.\\rJackbox Games e os Jackbox Games Logo são usados como Warenzeichen der Jackbox Games, Inc. Quiplash und dem Quiplash logo\\rSelecione Marken von Jackbox Games, Inc. Todos os outros Marken und Logos são Eigentum der jeweiligen Inhaber."
+            "LEGAL": "Entwickelt von Jackbox Games, Inc. Jogo e software © 2016-2017 Jackbox Games, Inc. Alle Rechte vorbehalten.\\rJackbox Games e os Jackbox Games Logo são usados como Warenzeichen der Jackbox Games, Inc. Quiplash und dem Quiplash logo\\rSelecione Marken von Jackbox Games, Inc. Todos os outros Marken und Logos são Eigentum der jeweiligen Inhaber.",
+            "LEGAL_PRO": "Criado e desenvolvido por Jackbox Games, Inc. Jogo e software © 2016-2017 Jackbox Games, Inc. Todos os direitos reservados. Jackbox Games e o logotipo Jackbox Games são marcas registradas da Jackbox Games, Inc. Quiplash, Trivia Murder Party, Guesspionage, Fakin 'It, Tee KO e Party Pack são marcas registradas da Jackbox Games, Inc. Todas as outras marcas e logotipos são propriedade de seus respectivos proprietários. Esta versão profissional do jogo Jackbox Party Pack 3 é para uso exclusivo do detentor da licença designado e não pode ser copiada, transferida ou usada em qualquer outro feudo sem licença. Qualquer uso não autorizado deste software pode anular a licença."
         },
         "es": {
             "LANGUAGE_NAME": "Espanhol",
             "LANGUAGE": "idioma",
             "INTERNET_CONNECTED": "Acabamos de encontrar a internet.",
-            "INTERNET_DISCONNECTED": "Desculpe, não conseguimos conectar aos servidores Jackbox Games.<br />Verifique se a sua conexão com a Internet está funcionando corretamente.",
-            "ROOM_DESTROYED": "Desculpe, seu quarto foi destruído.<br />Compraremos um novo assim que possível.",
+            "INTERNET_DISCONNECTED": "Desculpe, não conseguimos conectar aos servidores Jackbox Games.<br>Verifique se a sua conexão com a Internet está funcionando corretamente.",
+            "ROOM_DESTROYED": "Desculpe, seu quarto foi destruído.<br>Compraremos um novo assim que possível.",
             "SOCKET_DISCONNECTED": "Desculpe, perdemos sua conexão com os servidores Jackbox Games, vamos tentar novamente.",
-            "TIMEOUT": "Desculpe, não conseguimos conectar aos servidores Jackbox Games.<br />Verifique se a sua conexão com a Internet está funcionando corretamente.",
+            "TIMEOUT": "Desculpe, não conseguimos conectar aos servidores Jackbox Games.<br>Verifique se a sua conexão com a Internet está funcionando corretamente.",
             "LOST_LICENSE": "Lamentamos, perdemos a licença deste conteúdo!",
             "STEAM_ERROR": "Não foi possível validar sua licença do Steam.",
             "START": "Empezar",
             "SWITCH_USER": "Cambiar de usuario",
-            "LEGAL": "Desarrollado por Jackbox Games, Inc. Jogos e Software © 2015 Jackbox Games, Inc. Todos os derechos reservados. Marcas\\rJackbox Games e o logotipo Jackbox Games filho marcas registradas de Jackbox Games, Inc. Quiplash e o logotipo Quiplash\\rmarcas raras de Jackbox Games, Inc. Todas as outras marcas comerciales e logotipos filho propiedad de sus devedores."
+            "LEGAL": "Desarrollado por Jackbox Games, Inc. Jogos e Software © 2016-2017 Jackbox Games, Inc. Todos os derechos reservados. Marcas\\rJackbox Games e o logotipo Jackbox Games filho marcas registradas de Jackbox Games, Inc. Quiplash e o logotipo Quiplash\\rmarcas raras de Jackbox Games, Inc. Todas as outras marcas comerciales e logotipos filho propiedad de sus devedores.",
+            "LEGAL_PRO": "Criado e desenvolvido por Jackbox Games, Inc. Jogo e software © 2016-2017 Jackbox Games, Inc. Todos os direitos reservados. Jackbox Games e o logotipo Jackbox Games são marcas registradas da Jackbox Games, Inc. Quiplash, Trivia Murder Party, Guesspionage, Fakin 'It, Tee KO e Party Pack são marcas registradas da Jackbox Games, Inc. Todas as outras marcas e logotipos são propriedade de seus respectivos proprietários. Esta versão profissional do jogo Jackbox Party Pack 3 é para uso exclusivo do detentor da licença designado e não pode ser copiada, transferida ou usada em qualquer outro feudo sem licença. Qualquer uso não autorizado deste software pode anular a licença."
         }
     }
 }
